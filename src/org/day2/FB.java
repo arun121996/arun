@@ -28,5 +28,7 @@ public class FB {
 		clk.click();
 		
 		driver.close();
+		System.out.println("done");
 	}
+	
 }
